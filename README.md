@@ -1,1 +1,1 @@
-Hey there this project isn't done yet you peepin lil bitch.
+Hey there, this project isn't done yet... you peepin' lil bitch.
