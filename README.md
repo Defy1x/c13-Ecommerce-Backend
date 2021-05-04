@@ -50,8 +50,8 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Config
 Please add your user name and password to the config file. Also install npm packages needed to run this program.
 
-## Link
-Coming soon.
+## Youtube Video Link of Functionality
+https://www.youtube.com/watch?v=fju73OfACQY
 
 #Usage
 ## Final screenshot
