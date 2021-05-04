@@ -55,9 +55,9 @@ https://www.youtube.com/watch?v=fju73OfACQY
 
 #Usage
 ## Final screenshot
-![This is the final deployed screenshot of the node project](requirements/screenshot-01.png)
-![This is the final deployed screenshot of the node project](requirements/screenshot-02.png)
-![This is the final deployed screenshot of the node project](requirements/screenshot-03.png)
+![This is the final deployed screenshot of the node project](requirements/screenshot-04.png)
+![This is the final deployed screenshot of the node project](requirements/screenshot-05.png)
+![This is the final deployed screenshot of the node project](requirements/screenshot-06.png)
 
 #Credits
 Thank you to everyone in the Columbia Engineering Bootcamp.
